@@ -1,0 +1,5 @@
+--- Steps to run the program
+Step 1:
+javac Robot.java Terrain.java Main.java
+Step 2:
+java Main
